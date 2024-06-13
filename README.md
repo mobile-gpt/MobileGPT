@@ -1,5 +1,6 @@
 # MobileGPT
 This repository is an implementation of the code for :
+
 [Explore, Select, Derive, and Recall: Augmenting LLM with Human-like Memory for Mobile Task Automation](https://arxiv.org/abs/2312.03003).
 
 For accessing the our Benchmark Dataset, you can download it from [Google Cloud](https://drive.google.com/file/d/11Q6W2wtpqfBfLVWRGW8mcNaBD2VKO2Z_/view?usp=sharing), 
